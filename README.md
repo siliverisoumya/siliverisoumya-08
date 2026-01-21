@@ -1,3 +1,3 @@
 # siliverisoumya-08
 This is my first Git Repository
-Aurthor soumya
+Author-soumya
